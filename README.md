@@ -1,1 +1,2 @@
 # Pig_Game
+There are 2 players in this game. Player can roll the dice, and the number on dice is gradually be added to the players current score. With the 'Hold' button, player has to hold their score to their total score and game turn goes to the opposite player. But while rolling dice, if no. 1 comes, player's cuurent score will be zero, no score will be added to the total score, and game turn will go to the opposite player. The player who is able to make their total score 100 or above 100 first, that player will be the winnwr of the game.
